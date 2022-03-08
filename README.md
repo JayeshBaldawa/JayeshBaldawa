@@ -1,6 +1,6 @@
 # Hi there , I'm Jayesh 👋
 
-- 🔭 I’m currently working at FreshGravity as an Analyst
+- 🔭 I’m currently working as an Analyst at FreshGravity 
 - ⚙️ I have experience working on Java, Python, React, SpringBoot and SQL 
 - ⚡ Fun fact: I love playing and streaming competitive games
 
