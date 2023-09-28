@@ -1,7 +1,7 @@
 # Hi there , I'm Jayesh 👋
 
 - 🔭 I’m currently working as a Consultant at FreshGravity 
-- ⚙️ I have experience working on Java, Python, React, SpringBoot and SQL 
+- ⚙️ I have experience working on Golang, Java, Python, Angular ,React, SpringBoot and SQL 
 - ⚡ Fun fact: I love playing and streaming competitive games
 
 
