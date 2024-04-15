@@ -1,6 +1,6 @@
 # Hi there , I'm Jayesh 👋
 
-- 🔭 I’m currently working as a Consultant at FreshGravity 
+- 🔭 I’m currently working as a Sr. Software Engineer at Lowe's 
 - ⚙️ I have experience working on Golang, Java, Python, Angular ,React, SpringBoot and SQL 
 - ⚡ Fun fact: I love playing and streaming competitive games
 
